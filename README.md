@@ -19,10 +19,14 @@ O Objetivo do projeto é auxiliar na realização e organização de sorteio de 
 
 # Paginas do Projeto
 
+![image] (image.png)
 
+![image] (image-1.png)
+
+![image] (image-2.png)
 
 # Como Acessar o Projeto
 
-1. Visite o site: COLOCAR O LINK DA VERCEL APÓS PUBLICAÇÃO DO SEU PROJETO
+1. Visite o site: https://amigo-secreto-eight-flame.vercel.app
 
-2. É possível através do git clonar o repositório pelo link: COLOCAR O LINK DO GIT HUB APÓS PUBLICAR SEU PROJETO
+2. É possível através do git clonar acessar o repositório pelo link: (https://github.com/LucasVeleda/amigo-secreto)
