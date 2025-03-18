@@ -19,11 +19,11 @@ O Objetivo do projeto é auxiliar na realização e organização de sorteio de 
 
 # Paginas do Projeto
 
-![image] (image.png)
+<img src="image.png" alt="Imagem 1">
 
-![image] (image-1.png)
+<img src="image-1.png" alt="Imagem 2">
 
-![image] (image-2.png)
+<img src="image-2.png" alt="Imagem 3">
 
 # Como Acessar o Projeto
 
